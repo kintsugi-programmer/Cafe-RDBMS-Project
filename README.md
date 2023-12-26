@@ -1,4 +1,4 @@
- **# Anteiku Café Counter Interface: Streamline Your Café Operations with Ease**
+**# Anteiku Café Counter Interface: Streamline Your Café Operations with Ease**
 
 **# A Python-Based MySQL Interface Empowering Efficient Order Management, Menu Handling, and Data Analysis**
 
