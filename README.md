@@ -1,6 +1,6 @@
-**# Anteiku Café Counter Interface: Streamline Your Café Operations with Ease**
+# Anteiku Café Counter Interface: Streamline Your Café Operations with Ease
 
-**# A Python-Based MySQL Interface Empowering Efficient Order Management, Menu Handling, and Data Analysis**
+A Python-Based MySQL Interface Empowering Efficient Order Management, Menu Handling, and Data Analysis
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ Anteiku Café Counter Interface is a Python-based MySQL interface that provides 
 - **Data analysis capabilities**
 - **Integration with MySQL database**
 
-**## Key Features**
+## Key Features
 
 - **Manage customer orders:**
     - Create new orders
@@ -57,8 +57,9 @@ Anteiku Café Counter Interface is a Python-based MySQL interface that provides 
 
 - **Project Information:**
    - Developer: Siddhant Bali
-   - Affiliation: IIIT Delhi
+   - Affiliation: Mother's Global School
    - Code Length: 500 lines
+   - Date : January 27, 2021
 - **Getting Started with MySQL:** Detailed guide for beginners: link-to-mysql-guide
 - **Installing MySQL Connector for Python:** Instructions for various platforms: link-to-connector-installation
 
